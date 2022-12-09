@@ -8,7 +8,7 @@
 
 <p><a href='https://moives-info.vercel.app/'>Movies info</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>gitlab</a></p>
 
-<p><a href='https://todo-app-uptrader.vercel.app/projects'>FinKit</a> main page (adaptive website coding), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
+<p><a href='https://todo-app-uptrader.vercel.app/projects'>FinKit</a> main page (adaptive website coding), project's repository on <a href='https://adaptive-page.vercel.app/'>gitlab</a></p>
 
 <p><a href='https://ticket-finder.vercel.app/'>Ticket finder</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/ticket-finder'>gitlab</a></p>
 
