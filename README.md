@@ -4,15 +4,15 @@
 
 <p>Main repository on <a href='https://gitlab.com/VengerYuriy'>gitlab</a></p>
 
-<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
+<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
 
-<p><a href='https://moives-info.vercel.app/'>Movies info</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>gitlab</a></p>
+<p><a href='https://moives-info.vercel.app/'>Movies info</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>gitlab</a></p>
 
-<p><a href='https://adaptive-page.vercel.app/'>FinKit</a> main page (adaptive website coding), project's repository on <a href='https://gitlab.com/VengerYuriy/test-aeon'>gitlab</a></p>
+<p><a href='https://adaptive-page.vercel.app/'>FinKit</a> apdaptive main page (HTML, CSS), project's repository on <a href='https://gitlab.com/VengerYuriy/test-aeon'>gitlab</a></p>
 
-<p><a href='https://ticket-finder.vercel.app/'>Ticket finder</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/ticket-finder'>gitlab</a></p>
+<p><a href='https://ticket-finder.vercel.app/'>Ticket finder</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/ticket-finder'>gitlab</a></p>
 
-<p><a href='https://psy-site.vercel.app/'>Psychologist website</a>, project's repository on <a href='https://gitlab.com/VengerYuriy/psy-site'>gitlab</a></p>
+<p><a href='https://psy-site.vercel.app/'>Psychologist website</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/psy-site'>gitlab</a></p>
 
 
 <!--
