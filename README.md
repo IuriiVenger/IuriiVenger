@@ -4,7 +4,9 @@
 
 <p>Main repository on <a href='https://gitlab.com/VengerYuriy'>gitlab</a></p>
 
-<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
+<p><a href='starwars-people.vercel.app'>Star Wars people searcher</a> (TypeScript/React JS/Redux/SCSS/REST API/FramerMotion/Jest), project's repository on <a href='https://gitlab.com/VengerYuriy/starwars'>gitlab</a></p>
+
+<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS/localStorage), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
 
 <p><a href='https://moives-info.vercel.app/'>Movies info</a> (TypeScript/React JS/Redux/SCSS/REST API), project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>gitlab</a></p>
 
