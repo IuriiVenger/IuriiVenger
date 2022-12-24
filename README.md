@@ -2,19 +2,22 @@
 
 <img src='https://eitrawmaterials.eu/wp-content/uploads/2021/09/KAVA-Call-NewsHeader.jpg'/>
 
-<p>Main repository on <a href='https://gitlab.com/VengerYuriy'>gitlab</a></p>
+<p>Main repository on <a href='https://gitlab.com/VengerYuriy'>GitLab</a></p>
 
-<p><a href='https://starwars-people.vercel.app'>Star Wars</a> people searcher (TypeScript/React JS/Redux/SCSS/REST API/FramerMotion/Jest), project's repository on <a href='https://gitlab.com/VengerYuriy/starwars'>gitlab</a></p>
+<p><a href='https://starwars-people.vercel.app'>Star Wars</a> people searcher (TypeScript/React JS/Redux/SCSS/REST API/FramerMotion/Jest), project's repository on <a href='https://gitlab.com/VengerYuriy/starwars'>GitLab</a></p>
 
-<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS/localStorage), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>gitlab</a></p>
+<p><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS/localStorage), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>GitLab</a></p>
 
-<p><a href='https://moives-info.vercel.app/'>Movies info</a> (TypeScript/React JS/Redux/SCSS/REST API), project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>gitlab</a></p>
+<p><a href='https://moives-info.vercel.app/'>Movies info</a> (TypeScript/React JS/Redux/SCSS/REST API), project's repository on <a href='https://gitlab.com/VengerYuriy/js_nl_graduate_work'>GitLab</a></p>
 
-<p><a href='https://adaptive-page.vercel.app/'>FinKit</a> apdaptive main page (HTML, CSS), project's repository on <a href='https://gitlab.com/VengerYuriy/test-aeon'>gitlab</a></p>
+<p><a href='https://psy-site.vercel.app/'>Psychologist website</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/psy-site'>GitLab</a></p>
 
-<p><a href='https://ticket-finder.vercel.app/'>Ticket finder</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/ticket-finder'>gitlab</a></p>
+Gantt chart</a> (TypeScript/React JS/Redux/SCSS/REST Api), project's repository on <a href='https://gitlab.com/VengerYuriy/gantt-chart'>GitLab</a></p>
 
-<p><a href='https://psy-site.vercel.app/'>Psychologist website</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/psy-site'>gitlab</a></p>
+<p><a href='https://adaptive-page.vercel.app/'>FinKit</a> apdaptive main page (HTML, CSS), project's repository on <a href='https://gitlab.com/VengerYuriy/test-aeon'>GitLab</a></p>
+
+<p><a href='https://ticket-finder.vercel.app/'>Ticket finder</a> (TypeScript/React JS/Redux/SCSS), project's repository on <a href='https://gitlab.com/VengerYuriy/ticket-finder'>GitLab</a></p>
+
 
 
 <!--
