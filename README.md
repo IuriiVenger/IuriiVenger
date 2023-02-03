@@ -6,6 +6,8 @@
 
 <ul><a href='https://starwars-people.vercel.app'>Star Wars</a> people searcher (TypeScript/React JS/Redux/SCSS/REST API/FramerMotion/Jest), project's repository on <a href='https://gitlab.com/VengerYuriy/starwars'>GitLab</a></ul>
 
+<ul><a href='https://netup-test.vercel.app/search'>IPTV</a> main interface (TypeScript/React JS/SCSS/fake API/FramerMotion), project's repository on <a href='https://gitlab.com/VengerYuriy/netup'>GitLab</a></ul>
+
 <ul><a href='https://maria-venger.ru/'>Psychologist website</a> (TypeScript/React JS/Redux/SCSS/FramerMotion/react-responsive), project's repository on <a href='https://gitlab.com/VengerYuriy/psy-site-maria'>GitLab</a></ul>
 
 <ul><a href='https://todo-app-uptrader.vercel.app/projects'>Todo-app</a> (TypeScript/React JS/Redux/SCSS/localStorage), project's repository on <a href='https://gitlab.com/VengerYuriy/todo-app'>GitLab</a></ul>
