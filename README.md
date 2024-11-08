@@ -1,7 +1,5 @@
 <h1>Projects 2022 🎯</h1>
 
-<p>Main repository on <a href='https://gitlab.com/VengerYuriy'>GitLab</a></p>
-
 <ul><a href='https://br-group-vert.vercel.app'>Hacker news</a> web application (TypeScript/React JS/Material UI/CSS Modules/SCSS/REST API), project's repository on <a href='https://github.com/IuriiVenger/BRGroup'>GitHub</a></ul>
 
 <ul><a href='https://alpha-dev-omega.vercel.app'>Alpha dev</a> landing page (TypeScript/React JS/CSS Modules/SCSS/REST API), project's repository on <a href='https://gitlab.com/VengerYuriy/alphaDev'>GitLab</a></ul>
